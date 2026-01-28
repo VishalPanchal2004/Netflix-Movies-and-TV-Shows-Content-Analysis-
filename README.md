@@ -78,6 +78,4 @@ This dashboard solves these challenges through centralized KPIs and interactive 
 ----
 
 - ## Repository Structure
-- Power BI Dashboard ("D:\Netflix Project\Netflix_Project.pbix")  
-- Netflix Dataset <a href"D:\Netflix Project\netflix_titles.csv"</a>)   
 - Dashboard Screenshots : <img width="1428" height="796" alt="Dashboard Image" src="https://github.com/user-attachments/assets/3f2e2290-e414-4271-b11d-239a8761276d" />

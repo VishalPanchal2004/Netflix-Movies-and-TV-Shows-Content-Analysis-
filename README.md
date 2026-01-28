@@ -73,4 +73,11 @@ This dashboard solves these challenges through centralized KPIs and interactive 
 - Clear visibility into Netflix content composition  
 - Better understanding of regional content contribution  
 - Improved analytical storytelling using Power BI  
-- Demonstrates real-world data analytics and BI skills  
+- Demonstrates real-world data analytics and BI skills
+  
+----
+
+- ## 📂 Project Files
+- Power BI Dashboard ("D:\Netflix Project\Netflix_Project.pbix")  
+- Netflix Dataset ("D:\Netflix Project\netflix_titles.csv")   
+- Dashboard Screenshots : "D:\Netflix Project\Dashboard Image.png" 
